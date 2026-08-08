@@ -2,7 +2,7 @@
 
 <div align="center">
 
- <img width="700" height="850" alt="1000057047" src="https://files.catbox.moe/dx5vix.png" /><br>
+ <img width="700" height="400" alt="1000057047" src="https://files.catbox.moe/dx5vix.png" /><br>
 
 <div align="center">
 
